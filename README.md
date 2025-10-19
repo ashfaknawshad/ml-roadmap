@@ -89,8 +89,8 @@ To go from **zero experience** to being **confident in building ML projects**, u
 | Stage | Status | Notes |
 |--------|---------|--------|
 | 00 Setup | ✅ Done | Repo created + Colab connected |
-| 01 Python Basics | 🚧 In Progress | Learning NumPy |
-| 02 Data Analysis | ⏳ Coming Soon | Pandas + Visualization |
+| 01 Python Basics | ✅ Done | Practiced NumPy + Python fundamentals |
+| 02 Data Analysis | 🚧 In Progress | Pandas and Matplotlib visualizations |
 | 03 ML Basics | ⏳ Coming Soon | Regression, Classification |
 | 04 Deep Learning | ⏳ Coming Soon | CNNs, NNs |
 | 05 Projects | ⏳ Coming Soon | Real datasets |

@@ -90,8 +90,8 @@ To go from **zero experience** to being **confident in building ML projects**, u
 |--------|---------|--------|
 | 00 Setup | ✅ Done | Repo created + Colab connected |
 | 01 Python Basics | ✅ Done | Practiced NumPy + Python fundamentals |
-| 02 Data Analysis | 🚧 In Progress | Pandas and Matplotlib visualizations |
-| 03 ML Basics | ⏳ Coming Soon | Regression, Classification |
+| 02 Data Analysis | ✅ Done | Pandas and Matplotlib visualizations completed |
+| 03 ML Basics (Regression) | ✅ Done | Trained first Linear Regression model; MSE ~127k, R² ~0.798 |
 | 04 Deep Learning | ⏳ Coming Soon | CNNs, NNs |
 | 05 Projects | ⏳ Coming Soon | Real datasets |
 

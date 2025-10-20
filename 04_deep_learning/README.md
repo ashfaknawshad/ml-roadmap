@@ -59,3 +59,9 @@ You’ll move from structured (table) data → image data, learning how CNNs det
 | Neural Networks | ✅ Done | Built and trained a simple ANN |
 | CNNs | ⏳ Next | Learn image-based deep learning |
 
+### 🧠 Deep Learning Subtopics
+
+- [Neural Networks (ANNs)](04_deep_learning/neural_networks.ipynb) – Understanding layers, activation functions, and backpropagation  
+- [Convolutional Neural Networks (CNNs)](04_deep_learning/cnn_intro.ipynb) – Learn image classification with deep learning  
+
+

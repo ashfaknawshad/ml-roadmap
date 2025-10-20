@@ -61,7 +61,7 @@ You’ll move from structured (table) data → image data, learning how CNNs det
 
 ### 🧠 Deep Learning Subtopics
 
-- [Neural Networks (ANNs)](04_deep_learning/neural_networks.ipynb) – Understanding layers, activation functions, and backpropagation  
-- [Convolutional Neural Networks (CNNs)](04_deep_learning/cnn_intro.ipynb) – Learn image classification with deep learning  
+- [Neural Networks (ANNs)](neural_networks.ipynb) – Understanding layers, activation functions, and backpropagation  
+- [Convolutional Neural Networks (CNNs)](cnn_intro.ipynb) – Learn image classification with deep learning  
 
 

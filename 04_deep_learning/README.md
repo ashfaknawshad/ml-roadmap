@@ -1,67 +1,40 @@
-# 🧠 Deep Learning
+# 🧠 Deep Learning — Neural Networks & CNNs
 
-This section introduces the fundamentals of **Deep Learning**, starting with Artificial Neural Networks (ANNs).
-
----
-
-## 📘 Contents
-| Notebook | Description |
-|-----------|-------------|
-| `neural_networks.ipynb` | Implementation of a simple feedforward neural network using TensorFlow/Keras |
-| `cnn_intro.ipynb` | (Next) Intro to Convolutional Neural Networks for image data |
+This module explores how deep learning models learn to recognize complex patterns through layered computations.  
+We built both **fully connected Neural Networks (NNs)** and **Convolutional Neural Networks (CNNs)**.
 
 ---
 
-## 🌱 What You’ll Learn
-- The intuition behind **neurons**, **layers**, and **activations**
-- How neural networks learn through **backpropagation**
-- The difference between **train**, **validation**, and **test** data
-- Understanding metrics like **accuracy**, **loss**, and **epochs**
-- Why Deep Learning is part of Machine Learning, but distinct from traditional ML
+## 🔹 Part 1: Neural Networks (NN)
+- Implemented a **Sequential model** using `Dense` layers.
+- Activation functions used:
+  - `relu` → introduces non-linearity.
+  - `softmax` → outputs probability distribution for classification.
+- Learned about:
+  - **Epochs** → number of full training passes through the data.
+  - **Training vs Validation Accuracy** → to detect under/overfitting.
+- Achieved **100% test accuracy** on the penguin dataset.
 
 ---
 
-## 🧩 Neural Network Architecture Overview
-
-- **Input Layer:** Takes the features (e.g., penguin measurements)
-- **Hidden Layers:** Learn patterns and combinations of features
-- **Output Layer:** Predicts the final class (species)
-- **Activation Functions:**
-  - `ReLU` → For hidden layers, introduces non-linearity
-  - `Softmax` → For output layer in classification problems
-
----
-
-## 📊 Example Result (from `neural_networks.ipynb`)
-
-```
-Accuracy: 1.0
-Confusion Matrix:
-[[19 0 0]
-[ 0 13 0]
-[ 0 0 13]]
-```
-
-✅ Perfect accuracy — the neural net successfully classified all penguins.
+## 🔹 Part 2: Convolutional Neural Networks (CNN)
+- Used **Conv2D** and **MaxPooling2D** layers to process image data (e.g. MNIST digits).
+- Steps:
+  1. Convolution layers learned basic shapes and textures.
+  2. Pooling reduced dimensionality while keeping key features.
+  3. Flattened the 2D maps into a 1D vector.
+  4. Dense layers handled classification logic.
+- Achieved **1.00 test accuracy**.
+- Visualized **feature maps** (layer activations) to understand what each layer “sees”.
 
 ---
 
-## 🚀 Next Step
-Up next: **Convolutional Neural Networks (CNNs)**  
-You’ll move from structured (table) data → image data, learning how CNNs detect edges, shapes, and patterns automatically.
+## 🧩 Key Libraries
+- `tensorflow` / `keras`
+- `numpy`
+- `matplotlib`
 
 ---
 
-### 🪴 Progress Tracker
-
-| Stage | Status | Notes |
-|--------|---------|--------|
-| Neural Networks | ✅ Done | Built and trained a simple ANN |
-| CNNs | ⏳ Next | Learn image-based deep learning |
-
-### 🧠 Deep Learning Subtopics
-
-- [Neural Networks (ANNs)](neural_networks.ipynb) – Understanding layers, activation functions, and backpropagation  
-- [Convolutional Neural Networks (CNNs)](cnn_intro.ipynb) – Learn image classification with deep learning  
-
-
+## 📊 Next Up
+Next module: **05_Projects** — applying ML and DL models to real-world datasets.

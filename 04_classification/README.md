@@ -1,4 +1,4 @@
-# 🐧 04 Classification – Penguin Classifier
+# 🐧 04: Classification – Penguin Classifier
 
 This lesson introduces **classification models** using the famous **Penguin dataset**.
 

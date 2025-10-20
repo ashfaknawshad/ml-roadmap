@@ -92,8 +92,8 @@ To go from **zero experience** to being **confident in building ML projects**, u
 | 01 Python Basics | ✅ Done | Practiced NumPy + Python fundamentals |
 | 02 Data Analysis | ✅ Done | Pandas and Matplotlib visualizations completed |
 | 03 ML Basics | ✅ Done | Regression, Classification, and Decision Trees completed |
-| 04 Deep Learning | 🚀 In Progress | Neural Networks ✅ & CNNs ⏳ next |
-| 05 Projects | ⏳ Coming Soon | Real datasets and applied ML |
+| 04 Deep Learning | ✅ Done | NNs and CNNs completed with feature map visualization |
+| 05 Projects | ⏳ Coming Soon | Real datasets |
 
 
 ---

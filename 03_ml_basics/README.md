@@ -17,10 +17,11 @@ This section introduces the foundations of **Supervised Machine Learning** — s
 - Visualized and interpreted confusion matrices.
 - Achieved 100% accuracy on the Penguin dataset.
 
-### 3️⃣ Decision Trees 🌳 *(Coming Next)*
-- Non-linear, interpretable models.
-- Concepts: Gini, Entropy, Information Gain.
-- Visualization using `plot_tree`.
+### 3️⃣ Decision Trees
+- Built and trained a Decision Tree classifier on the Iris dataset.
+- Evaluated model with accuracy, classification report, and confusion matrix.
+- Visualized the tree structure and feature importances.
+- Learned how trees make decisions and how feature contributions affect predictions.
 
 ---
 

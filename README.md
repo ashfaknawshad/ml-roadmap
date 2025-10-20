@@ -91,10 +91,9 @@ To go from **zero experience** to being **confident in building ML projects**, u
 | 00 Setup | ✅ Done | Repo created + Colab connected |
 | 01 Python Basics | ✅ Done | Practiced NumPy + Python fundamentals |
 | 02 Data Analysis | ✅ Done | Pandas and Matplotlib visualizations completed |
-| 03 ML Basics (Regression) | ✅ Done | Trained first Linear Regression model; MSE ~127k, R² ~0.798 |
-| 04 Classification | ✅ Done | Logistic Regression (Penguin Classifier) — 100% accuracy, understood precision/recall/F1/confusion matrix |
-| 05 Deep Learning | ⏳ Coming Soon | CNNs, NNs |
-| 06 Projects | ⏳ Coming Soon | Real datasets |
+| 03 ML Basics | ✅ Done | Regression and Classification (Penguin Classifier) completed — Decision Trees next |
+| 04 Deep Learning | ⏳ Coming Soon | CNNs, NNs |
+| 05 Projects | ⏳ Coming Soon | Real datasets |
 
 
 ---
